@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="container   min-h-screen bg-gradient-to-b via-white from-white to-primary overflow-hidden">
       <header className="h-20 px-4 py-3">
-        <div className="flex items-center justify-between gap-4">
+        <div className="flex items-center  justify-between gap-4">
         <Logo/>
         <nav>
           <Button className="cursor-pointer" onClick={()=>router.push("/login")}>Login</Button>
@@ -24,7 +24,7 @@ export default function Home() {
       <TextAnimationHeading/>
 
       {/* Dashboard Landing Image */}
-      <div className="flex items-center justify-center shadow-md">
+      <div className="flex items-center justify-center shadow-md h-64 lg:h-full">
         <Image src={"/banner-animate.gif"} alt="Banner" width={1000} height={400}/>
       </div>
 
