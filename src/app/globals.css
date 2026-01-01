@@ -122,7 +122,6 @@
   }
 }
 
-
 /* Editor */
 .cm-editor .cm-gutters{
   @apply border-r-0 bg-primary/5 text-base
