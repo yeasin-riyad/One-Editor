@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Online Code Editor
 
-## Getting Started
+A powerful **online code editor** built with modern web technologies.
+This project allows users to **write, run, and share code directly in the browser** with a clean and modern interface.
 
-First, run the development server:
+The platform includes **secure authentication, form validation, and real-time code execution**, making it perfect for developers, learners, and teams who want to collaborate and share code easily.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* 💻 **Online Code Editor** – Write and run code directly in the browser.
+* 🔐 **Secure Authentication** – Sign up, login, password recovery, and email verification.
+* 📝 **Form Validation** – Robust validation using Zod and React Hook Form.
+* 🎨 **Modern UI** – Beautiful and responsive UI built with Tailwind CSS and Shadcn UI.
+* 🔗 **Shareable Links** – Generate unique links to share code with others.
+* ⚡ **Fast Performance** – Powered by modern React and Next.js architecture.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Next.js**
+* **React**
+* **Tailwind CSS**
+* **Shadcn UI**
+* **React Hook Form**
+* **Zod**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Backend
 
-## Deploy on Vercel
+* **Node.js**
+* **Next.js API Routes**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Database
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **MongoDB**
+
+### Authentication
+
+* **NextAuth.js**
+
+---
+
+## 👨‍💻 Author
+
+Developed with ❤️ by **Yeasin Riyad**
+
+GitHub:
+https://github.com/yeasin-riyad
